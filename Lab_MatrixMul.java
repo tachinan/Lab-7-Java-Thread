@@ -1,5 +1,5 @@
 import java.util.Arrays;
-
+//1.6 = 3
 public class Lab_MatrixMul {
     public static void main(String[] args) {
         int[][] inputA = { { 5, 6, 7 },
