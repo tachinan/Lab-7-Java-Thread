@@ -79,4 +79,3 @@ class MyData {
     }
 }// class
 
-// 1.6 = 3
